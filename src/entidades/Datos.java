@@ -21,5 +21,8 @@ public class Datos {
     public void setN2(int n2) {
         this.n2 = n2;
     }
+    public void prueba(){
+    
+    }
 
 }
