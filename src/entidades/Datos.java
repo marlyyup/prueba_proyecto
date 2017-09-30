@@ -22,7 +22,7 @@ public class Datos {
         this.n2 = n2;
     }
     public void prueba(){
-    
+    this.prueba();
     }
 
 }
